@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>iPhone开发秘籍</string>
+		<key>detail</key>
+		<string>一本全方位介绍iPhone开发的书籍</string>
+		<key>icon</key>
+		<string>0.png</string>
+		<key>price</key>
+		<string>85元</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>iPhone开发基础教程</string>
+		<key>detail</key>
+		<string>一本iPhone开发的入门书籍</string>
+		<key>icon</key>
+		<string>1.png</string>
+		<key>price</key>
+		<string>35元</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>headerFirst设计模式</string>
+		<key>detail</key>
+		<string>一本权威的介绍设计模式的书籍</string>
+		<key>icon</key>
+		<string>2.png</string>
+		<key>price</key>
+		<string>69元</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>javaScript权威指南</string>
+		<key>detail</key>
+		<string>一本js开发的百科全书</string>
+		<key>icon</key>
+		<string>3.png</string>
+		<key>price</key>
+		<string>120元</string>
+	</dict>
+</array>
+</plist>
